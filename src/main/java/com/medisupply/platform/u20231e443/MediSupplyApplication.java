@@ -1,4 +1,4 @@
-package com.acme.platform.MediSupply;
+package com.medisupply.platform.u20231e443;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
